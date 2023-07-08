@@ -1,7 +1,7 @@
 // This file is for creating the data
 
 import { exm_instance } from "./index";
-import { functionId } from "./functionId";
+import { functionId } from "./deploy";
 import { v4 as uuid } from "uuid";
 
 const id = uuid();
