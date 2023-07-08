@@ -10,8 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "chai": "^4.3.7",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.0"
   }
 }
